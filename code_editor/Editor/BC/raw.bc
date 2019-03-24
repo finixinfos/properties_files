@@ -1,0 +1,9 @@
+2+5;
+var = 10*3
+var
+print var
+define sum(a,b) {
+return a+b
+}
+sum(3,5)
+quit

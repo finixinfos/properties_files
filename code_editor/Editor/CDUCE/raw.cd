@@ -1,0 +1,3 @@
+let x = "Hello, " in
+let y = "world!" in
+x @ y
